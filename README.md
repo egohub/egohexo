@@ -1,0 +1,2 @@
+# egohexo
+Create Hexo blog
